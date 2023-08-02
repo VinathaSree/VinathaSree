@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @VinathaSree
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DataStructures and Algorithms with Java
-- 💞️ I’m looking to collaborate on any DSA projects
+
 - 📫 Contact me: gvinathasree@gmail.com
 
 <!---
